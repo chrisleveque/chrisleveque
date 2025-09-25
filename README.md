@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chrisleveque/threat-hunting-scenario-tor/blob/main/README.md)**
 - **[Creating a Security Operations Center in Microsoft Azure](https://github.com/chrisleveque/AzureSOC)**
 
 ## 🔑 Identity and Access Managent Projects
